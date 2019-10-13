@@ -25,6 +25,8 @@ p{
 
 .img-circle{
 	border-radius:50%;
+	width:250px;
+	height:300px;
 }
 
 .divintersection-design{
@@ -113,7 +115,7 @@ tr,td,th{
 #groupe{
 	width:1400px auto;
 	margin:20px auto;
-	height: 800px;
+	height: 675px;
 	padding: 10px;
 	word-wrap: break-word;
 	text-align: center;
